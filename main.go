@@ -1,7 +1,7 @@
 package main
 
 import (
-	app "RunForestRun/code/app"
+	app "code/forrest/app"
 	"log"
 )
 
